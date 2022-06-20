@@ -50,7 +50,7 @@ The median for c52 is higher than the median in c39. The box is higher on c52 th
 favstats(VitC~Cult,data=veggy)
 ```
 
-
+The c52 median is higher than c39 by 13.5 points. Additionally, the minimum and max  is lower for C39. The first quart tile of c52 is higher than the third quart tile of c39.
 
 
 
