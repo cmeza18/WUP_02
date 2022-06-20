@@ -69,3 +69,8 @@ The chances of these results would be .00000003405 if there was no difference be
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The c52 had a higher 50 percentile than the percentile for c39. AS well as the c52 maximum being 84 while c39 maximum is 68. The first quart tile for c52 was higher than the third quart tile for c39 and the 25 percentile of c39 was lower than the one for c52. 
+
+
+
