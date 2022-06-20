@@ -62,7 +62,7 @@ The c52 median is higher than c39 by 13.5 points. Additionally, the minimum and 
 t.test(VitC~Cult,data=veggy)
 ```
 
-
+The chances of these results would be .00000003405 if there was no difference between the two. 
 
 
 
